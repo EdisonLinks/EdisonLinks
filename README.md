@@ -39,6 +39,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=这里填你的GitHub用户名&show_icons=true&theme=minimal&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=这里填你的GitHub用户名&layout=compact&theme=minimal&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdisonLinks&show_icons=true&theme=minimal&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLinks&layout=compact&theme=minimal&hide_border=true" alt="languages" />
 </p>
