@@ -38,7 +38,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonLinks&theme=dark&hide_border=true" alt="streak stats" />
+</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdisonLinks&show_icons=true&theme=minimal&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLinks&layout=compact&theme=minimal&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonLinks&layout=compact&theme=dark&hide_border=true" alt="languages" />
 </p>
